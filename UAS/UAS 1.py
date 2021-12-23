@@ -1,7 +1,6 @@
 #Alpro uas no 1
 listNama = list()
 acc = list()
-umpan = 0
 
 jumlah = int(input('Jumlah data: '))
 
@@ -9,6 +8,7 @@ for i in range(jumlah):
 	listNama.append(input(f'Masukan Nama ke-{i + 1}: '))
 
 for nama in listNama:
+        umpan = 0
 	for huruf in nama:
 		if huruf in 'Aa':
 			umpan += 1
