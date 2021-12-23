@@ -1,0 +1,46 @@
+program :
+
+1.menampilkan nama2 orang yang mengandung huruf vokal A minimal 3huruf A dg inputan minimal 20 data orang
+
+2.menentukan penerima bantuan sembako masyarakat desa dengan ketentuan :
+	a.penghasil <1000000/bulan
+	b.rumah masih belum dg dinding bata
+	c.memeiliki kartu kurang mampu dari desa
+inputan minimal 20 orang 
+
+3.mesin pencarian data dg ketentuan : 
+	a.inputan data berupa kalimat
+	b.data minimal 25 data
+	c.pencarian by keyword input dari keyboard
+
+4.menentukan lokasi terdekat dari tempat wisata dg data wisata minimal 10 data dg inputan dinamis 
+
+5.bilangan deret dg kelipatan dan jumlah bilangan input dinamis 
+
+6.tiket kereta dg nomor kursi dinamis sesuai tujuan
+	a.minimal 2 gerbong kereta
+	b.carireferensi dari KAI Access
+
+7.simulasi permainan tumpukan dinamis
+
+8.simulasi permainan tukar tempat
+
+9.menampilkan data mahasiswa yang lulus dg ketentuan nilai sbb: 
+	a.nilai kehadiran 80
+	b.nilai uts 85
+	c.tugas 80
+	d.uas 75
+		1.mahasis lulus harus memenuhi nilai diatas
+		2.jika nilai uas <=74 maka remidi
+		3.jika uts dan tugas <=79 maka tidak lulus
+		4.jika kehadiran <=75 maka nilai D
+input data minimal 20 mhs
+
+10.buat program tes berbasis komputer multiple choice minimal 10 soal : inputan dinamis 
+
+11. membuat program inventory minimal stock barang 20, output barang masuk barang keluar dan histori 
+
+12. mesin kasir jumlah barang harga pembayaran, 20 barang 
+
+
+	
